@@ -19,8 +19,8 @@ monthly_charge            input box for float
 satisfaction_score        scale of 1 to 5
 cltv                      input box for float
 payament_method           drop down of credit_card (1) and mailed_check (0)
-# credit_card               drop down yes / no
-# mailed_check              drop down yes / no
+credit_card               drop down yes / no
+mailed_check              drop down yes / no
 '''
 
 path = './Models/rf.sav'
